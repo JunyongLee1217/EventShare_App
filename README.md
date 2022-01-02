@@ -2,7 +2,7 @@
 
 https://goevents.netlify.app/
 
-GoEvents allows you to CRUD operations by using MERN (MongoDB, Express, Node.js, Node.js).
+GoEvents allows you to CRUD operations by using MERN (MongoDB, Express, React.js, Node.js).
 
 
 
